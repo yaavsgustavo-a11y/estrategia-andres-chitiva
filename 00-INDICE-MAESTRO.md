@@ -31,6 +31,7 @@
 | 11 | KPIs, OKRs e Indicadores | ✅ Cerrada | `11-KPIs-OKRs.md` |
 | 12 | Estrategia de Lanzamiento | ✅ Cerrada | `12-Estrategia-Lanzamiento.md` |
 | 13 | Implementación (calendarios y cronograma) | ✅ Cerrada | `13-Implementacion.md` |
+| 14 | Playbook Táctico Detallado (18 estrategias) | ✅ Cerrada | `14-Plan-Tactico-Detallado.md` |
 
 ---
 
